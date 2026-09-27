@@ -1,0 +1,2 @@
+# premium-ho-scale-build-001-ho-scale-layout-bench-work-c
+Tired of chasing misplaced measurements, forgotten paint mixes, and half-finished subassemblies scattered across your bench? The HO Scale Layout &amp; Bench Work Craft Studio brings order to your modeling chaos.  This Notion template is the single source of truth for every phase of your layout build—from track plan to final scenery. It replaces sticky
